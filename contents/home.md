@@ -1,16 +1,16 @@
+[![ChunwangHua](https://img.shields.io/badge/ChunwangHua-github-blue?logo=github)](https://github.com/ChunwangHua)
 
-
-[![senli1073](https://img.shields.io/badge/senli1073-github-blue?logo=github)](https://github.com/senli1073)
-
-He is currently a Fellow in the Department of Earth and Planetary Sciences (EPS) at Harvard University.
+He is a Undergraduate student in the Department of Computer Science and Technology at Dalian University of Technology .
 
 #### Contact
 
-Email: user[at]fas.harvard.edu
+Email: [20251034703@mail.dlut.edu.cn](mailto:20251034703@mail.dlut.edu.cn)
 
 #### Education
-M.E., Computer Science and Technology, China University of Mining and Technology, 2022—2025.\
-B.E., Data Science and Big Data Technology, China University of Mining and Technology, 2018—2022.
+
+Undergraduate student in Computer Science and Technology,
+Dalian University of Technology, 2025—present
 
 #### Research Interests
-Machine Learning for Seismology; Foundation Model; Observational Seismology; Microseismic Monitoring
+
+Machine Learning for Seismology; Foundation Model; Observational Seismology; Microseismic Monitoring ChunwangHua
