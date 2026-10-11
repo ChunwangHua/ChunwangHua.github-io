@@ -1,5 +1,5 @@
 
-const content_dir = 'contents/'
+const content_dir = 'static/contents/'
 const config_file = 'config.yml'
 
 const allowedUrlProtocols = ['http:', 'https:', 'mailto:', 'tel:'];
